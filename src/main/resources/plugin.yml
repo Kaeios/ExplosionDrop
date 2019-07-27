@@ -1,0 +1,6 @@
+name: ExplosionDrop
+version: ${project.version}
+main: fr.kaeios.explosiondrop.TntDrop
+api-version: 1.13
+authors: [Kaeios]
+description: This plugin make tnt drop all damaged blocks

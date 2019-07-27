@@ -1,0 +1,12 @@
+# PLEASE DO NOT EDIT THIS LINE
+config-version: 1.0
+
+# true if explosions caused by this entity should drop
+# 100% of the exploded blocks otherwise false
+drop-all:
+  tnt: true
+  minecart-tnt: true
+  creeper: true
+  end-crystal: true
+  wither: true
+  wither-skull: true
